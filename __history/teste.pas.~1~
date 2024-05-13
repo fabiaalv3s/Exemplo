@@ -10,7 +10,6 @@ type
   TForm1 = class(TForm)
     teste: TPanel;
     tButtonHi: TButton;
-    Button1: TButton;
   private
     { Private declarations }
   public
